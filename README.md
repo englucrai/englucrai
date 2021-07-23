@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- :man_technologist: I'm Engineer Lucas 
+- 🔭 I’m currently working on: automotive control systems, autonomous vehicle's and object tracking and detection
 - 📫 How to reach me: englucasraimundo@gmail.com
 
 <!--
